@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
       - name: myapp
-      image: wajih02/test:latest
+        image: wajih02/test:latest
