@@ -16,4 +16,4 @@ spec:
       - name: myapp
 image: wajih02/test:v1.56
         ports:
-        - containerPort: 8080
+        - port: 80
